@@ -1,5 +1,22 @@
 {
     "tokens": [
-        
+        {   
+            "description": "Weather City0",      
+            "image": "https://cdn.icon-icons.com/icons2/1370/PNG/512/if-weather-3-2682848_90785.png",  
+            "name": "Smart Weather 0",   
+            "attributes": []
+        },
+        {   
+            "description": "Weather City1",      
+            "image": "https://cdn.icon-icons.com/icons2/1370/PNG/512/if-weather-2-2682849_90781.png",  
+            "name": "Smart Weather 1",   
+            "attributes": []
+        },
+        {   
+            "description": "Weather City2",      
+            "image": "https://cdn.icon-icons.com/icons2/1370/PNG/512/if-weather-4-2682847_90799.png",  
+            "name": "Smart Weather 2",   
+            "attributes": []
+        }
     ]
 }
